@@ -1,4 +1,22 @@
 {
     "name": "unobtrusive-bootstrap",
-    "version": "0.0.1"
+    "version": "1.0.0",
+    "main": "dist/unobtrusive-bootstrap.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "jquery": "3.2.1",
+        "jquery-validation": "1.16.0",
+        "jquery-validation-unobtrusive": "3.2.6"
+    }
 }
