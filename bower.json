@@ -1,7 +1,20 @@
 {
     "name": "unobtrusive-bootstrap",
+    "description": "jQuery unobtrusive validation for Bootstrap",
     "version": "1.0.0",
+    "license": "MIT",
     "main": "dist/unobtrusive-bootstrap.js",
+    "homepage": "http://www.brecons.net/",
+    "authors": [
+		"Timm Bremus <t.bremus@bremus-solutions.de>"
+	],
+    "keywords": [
+		"forms",
+		"validation",
+		"validate",
+        "unobtrusive",
+        "bootstrap"
+	],
     "ignore": [
         "source",
         "spec",
