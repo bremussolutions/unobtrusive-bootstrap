@@ -9,10 +9,11 @@
 		"Timm Bremus <t.bremus@bremus-solutions.de>"
 	],
     "keywords": [
-		"forms",
-		"validation",
-		"validate",
-        "unobtrusive",
+	"jquery",
+        "asp.net",
+        "mvc",
+        "validation",
+        "unobtrusive"
         "bootstrap"
 	],
     "ignore": [
