@@ -1,15 +1,15 @@
 (function ($) {
     var defaultOptions = {
-        validClass: 'has-success',
-        errorClass: 'has-error',
+        validClass: 'is-valid',
+        errorClass: 'is-invalid',
         highlight: function (element, errorClass, validClass) {
-            $(element).closest(".form-group")
+            $(element)
                 .removeClass(validClass)
-                .addClass('has-error');
+                .addClass(errorClass);
         },
         unhighlight: function (element, errorClass, validClass) {
-            $(element).closest(".form-group")
-            .removeClass('has-error')
+            $(element)
+            .removeClass(errorClass)
             .addClass(validClass);
         }
     };
