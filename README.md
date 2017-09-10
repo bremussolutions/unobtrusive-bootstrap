@@ -1,7 +1,7 @@
-[Unobtrusive Bootstrap](https://www.brecons.net/) - Validation for Bootstrap v4.x
+Bootstrap v4.0 Extension for [jQuery Validation Unobtrusive](https://github.com/aspnet/jquery-validation-unobtrusive)
 ================================
 
-The jQuery Unobtrusive Bootstrap Validation Plugin extends the jQuery Validation Plugin to render validation states in Bootstrap v4.x style.
+This library is a extension for [jQuery Validation Unobtrusive](https://github.com/aspnet/jquery-validation-unobtrusive) and [jQuery Validation](https://github.com/jquery-validation/jquery-validation). It ensures the full compatibility between Bootstrap v4.x and jQuery Validation in interaction with ASP.NET MVC Core.
 
 ## License
 Copyright &copy; Bremus Solutions<br>
