@@ -1,10 +1,10 @@
 {
     "name": "unobtrusive-bootstrap",
-    "description": "jQuery unobtrusive validation for Bootstrap",
-    "version": "1.0.0",
+    "description": "jQuery Unobtrusive Validation for Bootstrap v4.x",
+    "version": "2.0.0",
     "license": "MIT",
     "main": "dist/unobtrusive-bootstrap.js",
-    "homepage": "http://www.brecons.net/",
+    "homepage": "https://www.brecons.net/",
     "authors": [
 		"Timm Bremus <t.bremus@bremus-solutions.de>"
 	],
@@ -29,7 +29,7 @@
     ],
     "dependencies": {
         "jquery": "3.2.1",
-        "jquery-validation": "1.16.0",
+        "jquery-validation": "1.17.0",
         "jquery-validation-unobtrusive": "3.2.6"
     }
 }
