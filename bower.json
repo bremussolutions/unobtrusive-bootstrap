@@ -13,7 +13,7 @@
         "asp.net",
         "mvc",
         "validation",
-        "unobtrusive"
+        "unobtrusive",
         "bootstrap"
 	],
     "ignore": [
